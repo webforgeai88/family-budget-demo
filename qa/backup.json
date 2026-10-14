@@ -2,7 +2,7 @@
   "version": 1,
   "currency": "RUB",
   "amountUnit": "kopecks",
-  "createdAt": "2026-10-14T16:48:37.462Z",
+  "createdAt": "2026-10-14T17:08:53.396Z",
   "user": "Демо-бюджет",
   "categories": [
     {
@@ -94,7 +94,7 @@
       "archived": 0
     },
     {
-      "id": "4ed1cba8-c946-4ba2-8d1f-b3c24509a330",
+      "id": "669fc4d5-677e-4496-8bea-47601dffdf46",
       "name": "Отпуск",
       "kind": "expense",
       "color": "#5278db",
