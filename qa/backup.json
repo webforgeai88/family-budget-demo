@@ -1,0 +1,317 @@
+{
+  "version": 1,
+  "currency": "RUB",
+  "amountUnit": "kopecks",
+  "createdAt": "2026-10-14T16:48:37.462Z",
+  "user": "Демо-бюджет",
+  "categories": [
+    {
+      "id": "salary",
+      "name": "Зарплата",
+      "kind": "income",
+      "color": "#159d89",
+      "icon": "💼",
+      "archived": 0
+    },
+    {
+      "id": "side",
+      "name": "Подработка",
+      "kind": "income",
+      "color": "#4c7deb",
+      "icon": "🛠️",
+      "archived": 0
+    },
+    {
+      "id": "gift",
+      "name": "Подарки",
+      "kind": "income",
+      "color": "#b67cd8",
+      "icon": "🎁",
+      "archived": 0
+    },
+    {
+      "id": "other-income",
+      "name": "Прочее",
+      "kind": "income",
+      "color": "#8493a7",
+      "icon": "✨",
+      "archived": 0
+    },
+    {
+      "id": "food",
+      "name": "Продукты",
+      "kind": "expense",
+      "color": "#e79a45",
+      "icon": "🥑",
+      "archived": 0
+    },
+    {
+      "id": "home",
+      "name": "Жильё",
+      "kind": "expense",
+      "color": "#5278db",
+      "icon": "🏠",
+      "archived": 0
+    },
+    {
+      "id": "transport",
+      "name": "Транспорт",
+      "kind": "expense",
+      "color": "#53a6b8",
+      "icon": "🚋",
+      "archived": 0
+    },
+    {
+      "id": "health",
+      "name": "Здоровье",
+      "kind": "expense",
+      "color": "#cf748d",
+      "icon": "❤️",
+      "archived": 0
+    },
+    {
+      "id": "education",
+      "name": "Образование",
+      "kind": "expense",
+      "color": "#9b80d0",
+      "icon": "📚",
+      "archived": 0
+    },
+    {
+      "id": "fun",
+      "name": "Развлечения",
+      "kind": "expense",
+      "color": "#dcaf4b",
+      "icon": "🎟️",
+      "archived": 0
+    },
+    {
+      "id": "other",
+      "name": "Прочее",
+      "kind": "expense",
+      "color": "#8493a7",
+      "icon": "📦",
+      "archived": 0
+    },
+    {
+      "id": "4ed1cba8-c946-4ba2-8d1f-b3c24509a330",
+      "name": "Отпуск",
+      "kind": "expense",
+      "color": "#5278db",
+      "icon": "📦",
+      "archived": 0
+    }
+  ],
+  "operations": [
+    {
+      "id": "sample-current-0",
+      "categoryId": "salary",
+      "kind": "income",
+      "amount": 12000000,
+      "date": "2026-10-01",
+      "comment": "Зарплата за месяц"
+    },
+    {
+      "id": "sample-current-1",
+      "categoryId": "side",
+      "kind": "income",
+      "amount": 2500000,
+      "date": "2026-10-09",
+      "comment": "Проект на фрилансе"
+    },
+    {
+      "id": "sample-current-2",
+      "categoryId": "gift",
+      "kind": "income",
+      "amount": 500000,
+      "date": "2026-10-12",
+      "comment": "Подарок ко дню рождения"
+    },
+    {
+      "id": "sample-current-3",
+      "categoryId": "home",
+      "kind": "expense",
+      "amount": 2800000,
+      "date": "2026-10-02",
+      "comment": "Аренда квартиры"
+    },
+    {
+      "id": "sample-current-4",
+      "categoryId": "home",
+      "kind": "expense",
+      "amount": 700000,
+      "date": "2026-10-05",
+      "comment": "Коммунальные услуги"
+    },
+    {
+      "id": "sample-current-5",
+      "categoryId": "food",
+      "kind": "expense",
+      "amount": 560000,
+      "date": "2026-10-03",
+      "comment": "Покупки на неделю"
+    },
+    {
+      "id": "sample-current-6",
+      "categoryId": "food",
+      "kind": "expense",
+      "amount": 740000,
+      "date": "2026-10-06",
+      "comment": "Супермаркет"
+    },
+    {
+      "id": "sample-current-7",
+      "categoryId": "food",
+      "kind": "expense",
+      "amount": 630000,
+      "date": "2026-10-10",
+      "comment": "Продукты для семьи"
+    },
+    {
+      "id": "sample-current-8",
+      "categoryId": "food",
+      "kind": "expense",
+      "amount": 740000,
+      "date": "2026-10-13",
+      "comment": "Покупки на выходные"
+    },
+    {
+      "id": "sample-current-9",
+      "categoryId": "transport",
+      "kind": "expense",
+      "amount": 360000,
+      "date": "2026-10-04",
+      "comment": "Проездные"
+    },
+    {
+      "id": "sample-current-10",
+      "categoryId": "transport",
+      "kind": "expense",
+      "amount": 420000,
+      "date": "2026-10-11",
+      "comment": "Бензин"
+    },
+    {
+      "id": "sample-current-11",
+      "categoryId": "health",
+      "kind": "expense",
+      "amount": 290000,
+      "date": "2026-10-07",
+      "comment": "Аптека"
+    },
+    {
+      "id": "sample-current-12",
+      "categoryId": "health",
+      "kind": "expense",
+      "amount": 400000,
+      "date": "2026-10-12",
+      "comment": "Приём врача"
+    },
+    {
+      "id": "sample-current-13",
+      "categoryId": "education",
+      "kind": "expense",
+      "amount": 540000,
+      "date": "2026-10-08",
+      "comment": "Курс английского"
+    },
+    {
+      "id": "sample-current-14",
+      "categoryId": "fun",
+      "kind": "expense",
+      "amount": 240000,
+      "date": "2026-10-05",
+      "comment": "Кино всей семьёй"
+    },
+    {
+      "id": "sample-current-15",
+      "categoryId": "fun",
+      "kind": "expense",
+      "amount": 620000,
+      "date": "2026-10-13",
+      "comment": "Ужин в ресторане"
+    },
+    {
+      "id": "sample-current-16",
+      "categoryId": "other",
+      "kind": "expense",
+      "amount": 240000,
+      "date": "2026-10-10",
+      "comment": "Товары для дома"
+    },
+    {
+      "id": "sample-previous-0",
+      "categoryId": "salary",
+      "kind": "income",
+      "amount": 12000000,
+      "date": "2026-09-01",
+      "comment": "Пример за прошлый месяц"
+    },
+    {
+      "id": "sample-previous-1",
+      "categoryId": "side",
+      "kind": "income",
+      "amount": 2500000,
+      "date": "2026-09-02",
+      "comment": "Пример за прошлый месяц"
+    },
+    {
+      "id": "sample-previous-2",
+      "categoryId": "home",
+      "kind": "expense",
+      "amount": 3500000,
+      "date": "2026-09-03",
+      "comment": "Пример за прошлый месяц"
+    },
+    {
+      "id": "sample-previous-3",
+      "categoryId": "food",
+      "kind": "expense",
+      "amount": 2480000,
+      "date": "2026-09-04",
+      "comment": "Пример за прошлый месяц"
+    },
+    {
+      "id": "sample-previous-4",
+      "categoryId": "transport",
+      "kind": "expense",
+      "amount": 720000,
+      "date": "2026-09-05",
+      "comment": "Пример за прошлый месяц"
+    },
+    {
+      "id": "sample-previous-5",
+      "categoryId": "health",
+      "kind": "expense",
+      "amount": 410000,
+      "date": "2026-09-06",
+      "comment": "Пример за прошлый месяц"
+    },
+    {
+      "id": "sample-previous-6",
+      "categoryId": "education",
+      "kind": "expense",
+      "amount": 540000,
+      "date": "2026-09-07",
+      "comment": "Пример за прошлый месяц"
+    },
+    {
+      "id": "sample-previous-7",
+      "categoryId": "fun",
+      "kind": "expense",
+      "amount": 1080000,
+      "date": "2026-09-08",
+      "comment": "Пример за прошлый месяц"
+    },
+    {
+      "id": "sample-previous-8",
+      "categoryId": "other",
+      "kind": "expense",
+      "amount": 240000,
+      "date": "2026-09-09",
+      "comment": "Пример за прошлый месяц"
+    }
+  ],
+  "messages": [],
+  "consent": false
+}
